@@ -1,0 +1,2 @@
+i am writing into version2 file1
+i am writing into version2 and file2

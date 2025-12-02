@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+.venv/
+venv/
+pip-wheel-metadata/
+*.egg-info/
+
+# VS Code
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python packaging
+dist/
+build/
+
+# Ignore storage containers if large (uncomment if desired)
+# storage/active/
+# storage/archival/
+# data/
+
+# Keep recipes, src, README, docs etc.
